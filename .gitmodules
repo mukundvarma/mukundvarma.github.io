@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/mukundvarma/mukundvarma.github.io.git
+	branch = master
