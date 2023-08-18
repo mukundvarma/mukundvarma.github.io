@@ -6,7 +6,7 @@ subtitle: Computational Scientist. Pre-trained on physical data and fine-tuned f
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mukund.jpeg
   image_circular: true # crops the image to make it circular
   address: >
     <p>Greater Boston</p>
