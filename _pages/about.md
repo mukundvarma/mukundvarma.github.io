@@ -14,7 +14,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Mukund. I'm a computational scientist with a deep interest in the application of machine learning and statistical techniques for better understanding biological data. Hop on over to my [LinkedIn profile](https://www.linkedin.com/in/mukundmvarma) to learn more about my professional experience.
@@ -42,5 +42,3 @@ My computational areas of expertise include
 * some amount of software engineering.
 
 Projects page, blog and CV to follow soon!
-
-The easiest way to reach me is through LinkedIn or over [email](mukundomics@gmail.com). I look forward to hearing from you.
