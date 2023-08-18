@@ -38,5 +38,6 @@ My computational areas of expertise include
 * machine learning algorithm and model development (classical machine learning and deep learning)
 * some amount of software engineering.
 
+Projects page, blog and CV to follow soon!
 
 The easiest way to reach me is through LinkedIn or over [email](mukundomics@gmail.com). I look forward to hearing from you.
