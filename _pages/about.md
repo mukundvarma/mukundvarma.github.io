@@ -23,14 +23,15 @@ I'm currently operating as a freelance ML/Comp Bio scientist and technical leade
 * data science/computational biology strategy and best practices for early stage startups
 * custom algorithms or pipelines for novel data types
 * deep biological insights based on sound statistical analysis
-* better collaboration between within cross-functional teams through interactive data application development
+* experimental design and power analyses
+* better collaboration within cross-functional teams through interactive data application development
 * visualizations and/or analysis towards fundraising
 * you're looking for a technical cofounder for your biotech/techbio startup
 
 My biological areas of expertise include 
 * early discovery in therapeutics: target discovery, precision medicine and biomarker discovery
-* omics data analysis for immunology, cancer and inflammatory disease applications: all kinds of omics data types with deep expertise in single cell RNASeq
-* synthetic biology
+* omics data analysis for immunology, cancer and inflammatory disease applications: diverse genomics, transcriptomics and proteomics data types with deep expertise in single cell RNASeq
+* biophysical modeling and synthetic biology
 
 My computational areas of expertise include
 * traditional statistical methods used in bioinformatics
