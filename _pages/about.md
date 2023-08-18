@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Mukund. I'm a computational scientist with a deep interest in the application of machine learning and statistical techniques for better understanding biological data. Hop on over to my [LinkedIn profile](https://www.linkedin.com/p/mukundmvarma) to learn more about my professional experience.
+Hi, I'm Mukund. I'm a computational scientist with a deep interest in the application of machine learning and statistical techniques for better understanding biological data. Hop on over to my [LinkedIn profile](https://www.linkedin.com/in/mukundmvarma) to learn more about my professional experience.
 
 I'm currently operating as a freelance ML/Comp Bio scientist and technical leader. You should reach out over [email](mukundomics@gmail.com) if you need help with
 * data science/computational biology strategy and best practices for early stage startups
