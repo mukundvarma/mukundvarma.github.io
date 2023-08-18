@@ -20,15 +20,22 @@ social: true  # includes social icons at the bottom of the page
 Hi, I'm Mukund. I'm a computational scientist with a deep interest in the application of machine learning and statistical techniques for better understanding biological data. Hop on over to my [LinkedIn profile](https://www.linkedin.com/p/mukundmvarma) to learn more about my professional experience.
 
 I'm currently operating as a freelance ML/Comp Bio scientist and technical leader. You should reach out over [email](mukundomics@gmail.com) if you need help with
-* data science/computational biology strategy and best practices for your early stage startup
-* custom algorithms or pipelines for a cool new data type you're generating
-* deep biological insights from all the excellent data you've already collected
-* better collaboration between your experimental, computational and business teams through interactive data application development
+* data science/computational biology strategy and best practices for early stage startups
+* custom algorithms or pipelines for novel data types
+* deep biological insights based on sound statistical analysis
+* better collaboration between within cross-functional teams through interactive data application development
 * visualizations and/or analysis towards fundraising
-* you're looking for a technical cofounder for your exciting new venture
+* you're looking for a technical cofounder for your biotech/techbio startup
 
-My biological areas of expertise include analysis of all kinds of omics data (with deep expertise in single cell RNAseq), early target discovery, precision medicine and biomarker discovery. I have previously worked on these kinds of problems in inflammatory diseases and immuno-oncology. 
+My biological areas of expertise include 
+* early discovery in therapeutics: target discovery, precision medicine and biomarker discovery
+* omics data analysis for immunology, cancer and inflammatory disease applications: all kinds of omics data types with deep expertise in single cell RNASeq
+* synthetic biology
 
-My computational areas of expertise include traditional statistical methods used in bioinformatics, classical machine learning and deep learning methods. I am also able to do _some_ software engineering.
+My computational areas of expertise include
+* traditional statistical methods used in bioinformatics
+* machine learning algorithm and model development (classical machine learning and deep learning)
+* some amount of software engineering.
 
-I look forward to hearing from you!
+
+The easiest way to reach me is through LinkedIn or over [email](mukundomics@gmail.com). I look forward to hearing from you.
