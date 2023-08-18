@@ -25,7 +25,10 @@ I'm currently operating as a freelance ML/Comp Bio scientist and technical leade
 * deep biological insights based on sound statistical analysis
 * experimental design and power analyses
 * better collaboration within cross-functional teams through interactive data application development
-* visualizations and/or analysis towards fundraising
+* visualizations and analyses towards fundraising, IND or patent filings
+
+<p style="text-align: center;">OR</p>
+
 * you're looking for a technical cofounder for your biotech/techbio startup
 
 My biological areas of expertise include 
