@@ -19,7 +19,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Mukund. I'm a computational scientist with a deep interest in the application of machine learning and statistical techniques for better understanding biological data. Hop on over to my [LinkedIn profile](https://www.linkedin.com/in/mukundmvarma) to learn more about my professional experience.
 
-I'm currently operating as a freelance ML/Comp Bio scientist and technical leader. You should reach out over [email](mukundomics@gmail.com) if you need help with
+I'm currently a Principal Machine Learning Scientist at Caris Life Sciences, where I lead ML Engineering efforts to deploy computational biology and computational pathology models and algorithms.
+
+<!--
+I can help with
+
 * data science/computational biology strategy and best practices for early stage startups
 * custom algorithms or pipelines for novel data types
 * deep biological insights based on sound statistical analysis
@@ -31,14 +35,18 @@ I'm currently operating as a freelance ML/Comp Bio scientist and technical leade
 
 * you're looking for a technical cofounder for your biotech/techbio startup
 
-My biological areas of expertise include 
+-->
+
+I have worked on computational problems in 
 * early discovery in therapeutics: target discovery, precision medicine and biomarker discovery
 * omics data analysis for immunology, cancer and inflammatory disease applications: diverse genomics, transcriptomics and proteomics data types with deep expertise in single cell RNASeq
+* biomarker and risk prediction using computer vision models on histopathology slides
+* deployment of models, pipelines and web applications in cloud environments
 * biophysical modeling and synthetic biology
 
 My computational areas of expertise include
 * traditional statistical methods used in bioinformatics
 * machine learning algorithm and model development (classical machine learning and deep learning)
-* some amount of software engineering.
+* test-driven software development in cloud environments
 
-Projects page, blog and CV to follow soon!
+The best way to get in touch with me is through LinkedIn.
