@@ -8,11 +8,11 @@ middle_name: Madhav
 last_name: Varma
 email: mukundomics@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Mukund Varma — Director of BioML at the Ideker Lab, UC San Diego, and Head of Machine Learning for the ARPA-H Dynamic Digital Tumors (DDT) program. Computational scientist building ML models for cancer biology.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: computational biology, machine learning, consultant, MIT, Broad, Celsius Therapeutics, bioinformatics, freelance, data science, scientist, mukund, varma, mukundvarma, mukund varma, mukund madhav
+keywords: computational biology, machine learning, cancer biology, foundation models, single-cell RNA-seq, computational pathology, UC San Diego, Ideker Lab, ARPA-H, Dynamic Digital Tumors, MIT, Broad Institute, IIT Bombay, bioinformatics, mukund, varma, mukundvarma, mukund varma, mukund madhav
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Varma]
+  first_name: [Mukund, M., Mukund M.]
 
   style: apa
   locale: en
