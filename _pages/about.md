@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Mukund. I build machine learning models to understand cancer biology. See my [LinkedIn profile](https://www.linkedin.com/in/mukundmvarma) for my full professional history.
+Hi, I'm Mukund. I've spent the last decade or so building AI/ML for precision medicine, first as the person writing the models and now mostly as the person running the teams that do. Along the way I've worked on everything from single-cell data to drug programs that made it into the clinic. More on [LinkedIn](https://www.linkedin.com/in/mukundmvarma).
 
 I am Director of BioML at the Ideker Lab and Head of Machine Learning for the ARPA-H funded Dynamic Digital Tumors (DDT) program. I also advise and consult for Mycsology Foods, a food technology company developing the next generation of sustainable food ingredients.
 
