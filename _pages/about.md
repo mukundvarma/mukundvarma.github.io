@@ -21,7 +21,7 @@ Hi, I'm Mukund. I build machine learning models to understand cancer biology. Se
 
 I am Director of BioML at the Ideker Lab and Head of Machine Learning for the ARPA-H funded Dynamic Digital Tumors (DDT) program. I also advise and consult for Mycsology Foods, a food technology company developing the next generation of sustainable food ingredients.
 
-Before UC San Diego, I held technical leadership roles in industry. I was Principal Machine Learning Scientist at Caris Life Sciences and computational lead for the anti-TREM1 program at Celsius Therapeutics. I trained at the Broad Institute and hold an S.M. in Physics from MIT and a B.Tech from IIT Bombay.
+Before UC San Diego, I held technical leadership roles in the biotechnology industry. I was Principal Machine Learning Scientist at Caris Life Sciences and computational lead for the anti-TREM1 program at Celsius Therapeutics. I trained at the Broad Institute and hold an S.M. in Physics from MIT and a B.Tech from IIT Bombay.
 
 I have worked on computational problems in
 
