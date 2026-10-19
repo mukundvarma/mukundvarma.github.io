@@ -8,8 +8,6 @@ profile:
   align: right
   image: mukund.jpeg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>La Jolla, California</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
